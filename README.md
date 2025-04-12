@@ -1,5 +1,3 @@
-![Screenshot 2025-04-12 121258](https://github.com/user-attachments/assets/0a164b87-e6e6-4008-bb63-9defa623f4e1)# greenwood-library-website
-
 ## Greenwood Community Library website project integrating both Morgan's and Jamie's work flow
 
 # Setup
