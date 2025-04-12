@@ -114,6 +114,11 @@ Create a pull request to merge update-events into the main branch.
 
 ![Screenshot 2025-04-12 125756](https://github.com/user-attachments/assets/124fb889-72c4-4435-9390-792293d6cf53)
 
+# End of project
+
+<img width="951" alt="project page" src="https://github.com/user-attachments/assets/13928d0c-6a8c-4419-b154-4f15b4259e08" />
+
+
 
 
 
